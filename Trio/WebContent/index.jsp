@@ -12,5 +12,6 @@
 	<input type="text"></input>
 	<input type="button" value="click"></input>
 	<div>Test div</div>
+	<div>Test2 div</div>
 </body>
 </html>
