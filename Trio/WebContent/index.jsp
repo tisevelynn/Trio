@@ -11,5 +11,6 @@
 <h1>Test Commit!</h1>
 	<input type="text"></input>
 	<input type="button" value="click"></input>
+	<div>Test div</div>
 </body>
 </html>
